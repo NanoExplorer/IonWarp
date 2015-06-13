@@ -1,10 +1,8 @@
 IonWarp is a Kerbal Space Program mod that lets you use ion engines in on-rails time warp.
 
-This lets you execute realistic maneuvers such as those seen in the DAWN mission to Ceres without having to 
-wait literally years for the probe and ion engines to arrive at their destination.
+This lets you execute realistic maneuvers such as those seen in the DAWN mission to Ceres without having to wait literally years for the probe and ion engines to arrive at their destination.
 
 Future plans are: 
  * Integrate with the Trajectories mod (or similar) to provide you with a look at where your craft will end up
  * Add a rudimentary autopilot so that you won't have to constantly stop warping and readjust your craft
- * Re-balance stock and near-future ion engines to have about one one-millionth the thrust they currently have
-    so that using this mod actually makes sense
+ * Re-balance stock and near-future ion engines to have about one one-millionth the thrust they currently have so that using this mod actually makes sense
