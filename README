@@ -2,6 +2,8 @@ IonWarp is a Kerbal Space Program mod that lets you use ion engines in on-rails 
 
 This lets you execute realistic maneuvers such as those seen in the DAWN mission to Ceres without having to wait literally years for the probe and ion engines to arrive at their destination.
 
+It requires Module Manager to work properly.
+
 Future plans are: 
  * Integrate with the Trajectories mod (or similar) to provide you with a look 
     at where your craft will end up
